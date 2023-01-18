@@ -1,0 +1,18 @@
+/* Styling goes in this file */
+body {
+    font-family: Arial;
+}
+
+.container {
+    border-color: black;
+}
+
+#centered {
+    text-align: center
+}
+
+#name {
+    font-size: 30px;
+    color: green;
+    font-style: italic;
+}
